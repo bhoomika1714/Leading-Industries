@@ -94,3 +94,26 @@ nbformat
 
 Add extras if the notebook uses additional packages (e.g., `plotly`, `scipy`, or advanced visualization libs).
 
+## Who are the top 10 wealthiest billionaires across all years combined?
+
+<img width="599" height="432" alt="image" src="https://github.com/user-attachments/assets/9c0d957c-55f9-4246-af90-04f8d3126060" />
+
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/0f1a7c4d-3dc0-4812-9c60-a92a5c229a76" />
+
+## Which billionaire had the biggest single-year net worth?
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/36494cde-d5c0-4985-aeb8-adb1bfc71d2a" />
+
+## Who had the steepest decline in net worth in a single year?
+
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/d2318546-dbe5-4680-a677-8c0e722d7bb8" />
+## Which industries created the most billionaires over time?
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/5b8941d7-e3eb-4268-8b2e-512f1b94f3ed" />
+## Which industry dominated each decade (1980s, 1990s, 2000s, 2010s, 2020s)?
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/c6ef87d9-9237-4425-ac8e-1c0b9dda14d9" />
+## Co-Relation Between Age and Networth
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/1fb4f8fe-b717-4a8b-95f7-770f2df3acfb" />
+
+
+
+
+
