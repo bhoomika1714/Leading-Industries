@@ -114,9 +114,12 @@ Add extras if the notebook uses additional packages (e.g., `plotly`, `scipy`, or
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/c6ef87d9-9237-4425-ac8e-1c0b9dda14d9" />
 
 ## Co-Relation Between Age and Networth
+
 <img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/1fb4f8fe-b717-4a8b-95f7-770f2df3acfb" />
 
+## Are there clusters of billionaires around certain industries & years?
 
+<img width="1104" height="790" alt="image" src="https://github.com/user-attachments/assets/39b6802e-9ee1-4fb2-81c3-984491a2f958" />
 
 
 
